@@ -5,7 +5,7 @@ NattPS3, is an Android emulator that can run PS3 games, based on the RPCS3 sourc
 This project is based on [RPCS3](https://github.com/RPCS3/rpcs3). Huge thanks to the RPCS3 team for their incredible work on PlayStation 3 emulation.
 
 ## Installation
-1. Download the latest APK from the [Releases](https:/JuggleNatt/github.com/NattPS3/releases) page.
+1. Download the latest APK from the [Releases](github.com/JuggleNatt/NattPS3/releases) page.
 2. Install the APK on your Android device.
 3. Place the required PS3 firmware and game files in the appropriate directories.
 4. Launch NattPS3 and configure the settings as needed.
